@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib xmlns="http://java.sun.com/xml/ns/javaee" version="2.1">
+  <tlib-version>1.0</tlib-version><short-name>hg</short-name><uri>http://helpinggurus.com/tags</uri>
+  <function><name>inr</name><function-class>com.helpinggurus.util.Fmt</function-class>
+    <function-signature>java.lang.String inr(double)</function-signature></function>
+</taglib>
